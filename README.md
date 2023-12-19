@@ -1,2 +1,2 @@
 # odin-landing-page
-practice project
+practice project 2
